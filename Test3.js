@@ -12,7 +12,7 @@
 	{
 
 	document.getElementById("hover").addEventListener("mouseover", popup);
-
+        document.getElementById("click").addEventListener("mouseover", popup);
 	function popup()
 
 	{

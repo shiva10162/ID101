@@ -6,7 +6,7 @@
  --> also can be used as server-side lang  on Node.js
  --> mobile apps
  --> console based appln
-
+--> modyfying some notes 
  ---------------------------------------
 
  why i shud choose .js-lang ?  good features of this lang 
