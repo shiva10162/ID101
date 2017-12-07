@@ -8,7 +8,7 @@
 
 // a. string
 
-var name = "Nag";
+var name = "Shiva";
 var selection = 'abc';
 
 //--------------------------------------------
