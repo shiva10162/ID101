@@ -1,7 +1,7 @@
 
 
 class Person{
-    String pName="Nag"
+    String pName="Shiva";
     public void sayName(){
         //String pName="Local";
         System.put.println("im "+pName);
