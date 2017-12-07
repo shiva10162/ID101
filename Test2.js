@@ -25,6 +25,7 @@
       errors[3] = "<span style='color:red'>Please enter your user id!</span>";
       errors[4] = "<span style='color:red'>Please enter your password!</span>";
       errors[5] = "<span style='color:red'>Please confirm your password!</span>";
+      errors[6] = "<span style='color:red'>Please check your password!</span>";
       for (i in inputs)
       {
         var errMessage = errors[i];
