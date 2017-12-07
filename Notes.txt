@@ -8,6 +8,7 @@
  --> console based appln
 --> modyfying some notes 
 --> Adding one more test note
+--> checking the adjustmnt marking
  ---------------------------------------
 
  why i shud choose .js-lang ?  good features of this lang 

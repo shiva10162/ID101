@@ -3,7 +3,7 @@
 	<head>
 
        
-	<title>Event CHanges !!!</title>
+	<title>EventCHanges1 !!!</title>
 
 	<script type="text/javascript">
 
