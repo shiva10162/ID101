@@ -14,4 +14,5 @@ init();
 //-------------------------------------
 
 console.log(myFunctions[0]()); // 
+console.log(myFunctions[1]());
 console.log(myFunctions[1]()); // 
