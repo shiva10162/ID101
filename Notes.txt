@@ -7,6 +7,7 @@
  --> mobile apps
  --> console based appln
 --> modyfying some notes 
+--> Adding one more test note
  ---------------------------------------
 
  why i shud choose .js-lang ?  good features of this lang 

@@ -2,23 +2,23 @@
 // closure
 //----------------
 
-// function teach(sub) {
-//     console.log('teaching ' + sub);
-//     let notes = sub + "-notes";
-//     let funStory="............";
-//     function learn() {
-//         console.log('learning with ' + notes);
-//     }
-//     //learn();
-//     console.log('teaching ends');
-//     return learn;
-// }
-// let learnFunc=teach('.js');  // teach-context created with args(sub) & local(notes)
-// learnFunc();
-// learnFunc();
-// learnFunc();
+ function teach(sub) {
+     console.log('teaching ' + sub);
+     let notes = sub + "-notes";
+     let funStory="............";
+     function learn() {
+         console.log('learning with ' + notes);
+     }
+     learn();
+     console.log('teaching ends');
+     return learn;
+ }
+ let learnFunc=teach('.js');  // teach-context created with args(sub) & local(notes)
+ learnFunc();
+ learnFunc();
+ learnFunc();
 
-// learnFunc=teach('.java');
+ learnFunc=teach('.java');
 
 
 /*
