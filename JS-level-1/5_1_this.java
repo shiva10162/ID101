@@ -3,9 +3,9 @@
 class Person{
     String pName="Shiva";
     public void sayName(){
-        //String pName="Local";
+        String pName="Local";
         System.put.println("im "+pName);
-        //System.put.println("im "+this.pName);
+        System.put.println("im "+this.pName);
     }
 }
 
