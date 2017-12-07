@@ -2,7 +2,7 @@
 
 function getFood(){
     return  {
-        name :"Biryani"
+        name :"Biryani/FriedRice"
     }
 }
 
